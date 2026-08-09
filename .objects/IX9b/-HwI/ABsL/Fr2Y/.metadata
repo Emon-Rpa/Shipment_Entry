@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Get Created Shipment No",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Fr2YPsvvmkq7zMUZgmnQTw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Fr2YPsvvmkq7zMUZgmnQTw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T11:14:37.6033975Z",
+  "Updated": "2026-08-09T11:15:16.1589113Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

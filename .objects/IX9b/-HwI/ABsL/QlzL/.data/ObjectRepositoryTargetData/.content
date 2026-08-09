@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rQdyfsrmTECcR1aQKNS3Kw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="37, 221, 50, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='p_SwanPageLayout' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl tag='H1' aaname='Home' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' innertext='Home' /&gt;" Guid="4f286cea-286d-4739-8918-ec016f10d6d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d1aa8a74ea032561b952ad583acbb62b.jpg" xmlns="">0lYyIHkeh-UmvNY0-oPgeUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Inventory Organization Title",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8EJc8jA7UUiwQN639s4WBQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/8EJc8jA7UUiwQN639s4WBQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T09:00:54.5275727Z",
+  "Updated": "2026-08-09T09:01:49.0183265Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'Shipments in Landed cost Managements'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "AFGdpXeTAkai2z_eHkB9Ig",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/AFGdpXeTAkai2z_eHkB9Ig",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T08:52:21.4838552Z",
+  "Updated": "2026-08-09T08:52:21.4838552Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

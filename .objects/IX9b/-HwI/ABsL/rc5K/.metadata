@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Third Party Name",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "rc5KCsh_vEGcF5LO9sU86Q",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/rc5KCsh_vEGcF5LO9sU86Q",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T09:24:17.1492049Z",
+  "Updated": "2026-08-09T09:25:22.1698257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

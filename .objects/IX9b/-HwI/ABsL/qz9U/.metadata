@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ALL-LCM User",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qz9UPxX8pEWsRd2cRgA-Cg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/qz9UPxX8pEWsRd2cRgA-Cg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T08:30:33.528964Z",
+  "Updated": "2026-08-09T08:30:33.528964Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

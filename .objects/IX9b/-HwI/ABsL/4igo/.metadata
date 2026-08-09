@@ -1,0 +1,16 @@
+﻿{
+  "Name": "CREATE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "4igorVGM40WOGcpJNVQ_Hw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/4igorVGM40WOGcpJNVQ_Hw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T09:04:16.3935903Z",
+  "Updated": "2026-08-09T09:06:48.3296309Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

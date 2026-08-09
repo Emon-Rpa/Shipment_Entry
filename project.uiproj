@@ -1,0 +1,6 @@
+{
+  "Name": "ShipmentEntry",
+  "ProjectType": "Process",
+  "Description": "M and J Commercial Shipment Entry Process\r\n",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W61cDOOM80KPdF8GrZH5uA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="430, 468, 317, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='ShipHdrMsgCompLeft' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='OpUnitsLov' tag='INPUT' aaname='Operating Unit' /&gt;" Guid="da232473-39e3-410d-a17b-54a73dd16a88" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="67bc7ddcbd83cd593a278690ec623f27.jpg" xmlns="">0mD6Vg82E4kOhGHDk7ZcO_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

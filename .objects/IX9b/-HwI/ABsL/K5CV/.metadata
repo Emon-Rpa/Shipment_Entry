@@ -1,0 +1,16 @@
+﻿{
+  "Name": "GO",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "K5CVKx_ZOkG_Ohtlk4xXtg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/K5CVKx_ZOkG_Ohtlk4xXtg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T08:58:08.8836718Z",
+  "Updated": "2026-08-09T08:59:03.2628077Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

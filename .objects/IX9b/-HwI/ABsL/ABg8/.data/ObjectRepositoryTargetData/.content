@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nswbXKpRbU20oH6jEarnYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="120, 255, 61, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='PageLayout' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl id='INL_SHIP_SEARCH' matching:id='fuzzy' fuzzylevel:id='0.0' tag='A' aaname='Shipments' visibleinnertext='Shipments' check:text='Shipments' /&gt;" Guid="b654b29f-10ca-4561-8aa5-f4d09f11a1f1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="78f2118a691a946575813fb1e59af400.jpg" xmlns="">0lSLgHviIZ06AOzSipcVDHQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

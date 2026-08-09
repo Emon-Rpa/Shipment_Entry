@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b9Q9RGnKykyH7wEpHpfiSA" Reference="TL-4uZJJkkyuRJtRBBB__Q/rc5KCsh_vEGcF5LO9sU86Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="693, 916, 395, 24" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl id='ThirdPartyGroupTable:Content' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl tag='INPUT' aaname='Third Party Name' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='' /&gt;" Guid="3f79899a-e2a8-4668-aae6-b06b444c8544" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Interactive]">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="95, 919, 19, 20" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl id='ThirdPartyGroupTable:Content' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl id='ThirdPartyGroupTable:ThirdPartySelection:0' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' aaname='Select' checked='1' /&gt;" Guid="0f4475b9-1292-4b43-8dde-11a1b865ec34" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6613932dbc507a029fa603d37e75eb21.jpg" xmlns="">0sv5QepoaSUS-HtJ6TtZRGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

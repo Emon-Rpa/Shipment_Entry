@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sdAa--itzU6FVG8MBo0j0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="1840, 442, 45, 28" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='InvOrgPoplistRN' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl id='OrgSelectorGoBtn' matching:id='fuzzy' fuzzylevel:id='0.0' tag='BUTTON' aaname='Go' innertext='Go' visibleinnertext='Go' check:text='Go' /&gt;" Guid="4c055055-7ed7-493d-99a8-14631486af06" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1e00a1417aac01bc000257f224f5998e.jpg" xmlns="">0DM-xfbO1A0mC6GTeQcNkRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

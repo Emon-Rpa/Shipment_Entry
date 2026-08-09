@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-CrBEJD_9ESWOGtSzgNEBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="1786, 488, 76, 29" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='PageButtons' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' visibleinnertext='&amp;#x9;Create' /&gt;&lt;webctrl id='CreateButton' matching:id='fuzzy' fuzzylevel:id='0.0' tag='BUTTON' aaname='Create' visibleinnertext='Create' check:text='Create' /&gt;" Guid="9d562013-0843-4048-96fa-9aafa034edd7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1723, 488, 45, 29" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='InvOrgPoplistRN' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='OrgSelectorGoBtn' type='submit' tag='BUTTON' class='x80' aaname='Go' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go' /&gt;" Guid="aac81ed5-97fe-41dc-89ca-638e9e802295" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="76848bc0cc6aeea88a4fffec754e7b21.jpg" xmlns="">0_eAZjW0vhUuCty0uT8fvow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

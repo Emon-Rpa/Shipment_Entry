@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Home",
+  "Type": "Screen",
+  "Id": "ABsL-kEkLkix5GR01q7CXw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-HwIne3JGEeObeh_rGeKsA",
+  "Created": "2026-08-09T08:28:33.7046425Z",
+  "Updated": "2026-08-09T08:28:33.7046425Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

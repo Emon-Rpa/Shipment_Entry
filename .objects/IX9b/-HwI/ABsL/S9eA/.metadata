@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Shipments",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "S9eAx3jMBUqvXWjp-YNdTQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/S9eAx3jMBUqvXWjp-YNdTQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T08:37:25.8862334Z",
+  "Updated": "2026-08-09T08:37:25.8862334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

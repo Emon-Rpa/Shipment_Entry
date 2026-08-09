@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Operating Unit Text Box",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "qlQuQQGYPEqbN4dz_V6HsA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/qlQuQQGYPEqbN4dz_V6HsA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T09:16:57.8877104Z",
+  "Updated": "2026-08-09T09:18:32.9688692Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

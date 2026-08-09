@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Inventory Organization",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "hndtUl0x302xUdJ5LOrR7A",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/hndtUl0x302xUdJ5LOrR7A",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T08:54:54.1031964Z",
+  "Updated": "2026-08-09T08:54:54.1031964Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

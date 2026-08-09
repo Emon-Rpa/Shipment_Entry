@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q-l-TV-CA0et0goLfHTZIQ" Reference="TL-4uZJJkkyuRJtRBBB__Q/qz9UPxX8pEWsRd2cRgA-Cg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="83, 383, 83, 14" ElementType="Text" ElementVisibilityArgument="None" FuzzySelectorArgument="&lt;webctrl parentid='region1' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl id='AppsNavLink' matching:id='fuzzy' fuzzylevel:id='0.0' tag='A' aaname='ALL-LCM User' colName='ALL-LCM Supper User' visibleinnertext='ALL-LCM User' check:text='ALL-LCM User' /&gt;" Guid="a7fd6235-4617-4147-a399-edcf5e7d3a19" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="5753e9bcfcfc5d81803e701c935782f0.jpg" xmlns="">0a13jjGFyv0-8d30tMqWASQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

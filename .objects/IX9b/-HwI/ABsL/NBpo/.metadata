@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Third Party Site",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "NBpo1V3f2UO1d5hD0IZL_A",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/NBpo1V3f2UO1d5hD0IZL_A",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T09:25:34.8407903Z",
+  "Updated": "2026-08-09T09:26:04.9554552Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'Shipments'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ABg8H3Xku0KGbL2OTk4skA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/ABg8H3Xku0KGbL2OTk4skA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T09:03:11.473765Z",
+  "Updated": "2026-08-09T09:03:11.473765Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

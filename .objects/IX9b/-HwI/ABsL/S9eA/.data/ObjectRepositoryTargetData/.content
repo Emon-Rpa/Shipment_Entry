@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zbsdBVe16EeUPmOUJIbwnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="559, 562, 57, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='region1' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl id='N101' matching:id='fuzzy' fuzzylevel:id='0.0' tag='A' aaname='Shipments' innertext='Shipments' visibleinnertext='Shipments' check:text='Shipments' /&gt;" Guid="54421589-a9b8-4dd4-a335-742e6c4b5ff6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="83, 383, 83, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='region1' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl id='AppsNavLink' matching:id='fuzzy' fuzzylevel:id='0.0' type='' tag='A' class='x4n' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='ALL-LCM User' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' innertext='ALL-LCM User' check:innerText='ALL-LCM User' /&gt;" Guid="9920ef7e-e9f4-4cd8-b9a3-c24ef08c2fd5" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="298cc2a840e8048b314578ef4167a4ab.jpg" xmlns="">0UKYB-AIka02XJdqbLaodqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

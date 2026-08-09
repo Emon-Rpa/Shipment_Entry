@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EfycnXUqWk27nyegt29HJg" Reference="TL-4uZJJkkyuRJtRBBB__Q/c72FOVh0E0mRfHF2lYeuLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="1385, 157, 24, 24" ElementType="Icon" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='globalHeaderID' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl parentid='globalHeaderID' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='IMG' aaname='Home' alt='Home' /&gt;" Guid="8d5361e7-0e32-4570-95b5-687c3bf5d2a9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="a17d41ccbc917a9e04c70936bd4a7458.jpg" xmlns="">07ObALFjdJkCzfqS3bKgc0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

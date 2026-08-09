@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="U08VeyFE1EWZ5788-prl3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="1052, 328, 107, 58" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='*.mj-group.com:80* says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" Guid="2df32e92-af2f-42f6-8662-3aaddb4b2bdc" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Landed Cost Management - Google Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7cdd2e28b2fe30329a287444e3377844.jpg" xmlns="">0UDTCmV1Xs0W7k0tS04jnyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">InjectJsScript</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

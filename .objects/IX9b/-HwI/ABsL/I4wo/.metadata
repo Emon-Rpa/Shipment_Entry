@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Alert Ok",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "I4woJ05ROU6U5eZ7GLOYuA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/I4woJ05ROU6U5eZ7GLOYuA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T10:12:18.43499Z",
+  "Updated": "2026-08-09T10:19:39.2638075Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
