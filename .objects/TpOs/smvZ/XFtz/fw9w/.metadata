@@ -1,0 +1,16 @@
+﻿{
+  "Name": "BBLC V2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "fw9wQ_2kp06vp1u2rsnH2w",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/fw9wQ_2kp06vp1u2rsnH2w",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T07:30:23.2105923Z",
+  "Updated": "2026-08-10T07:37:16.8158465Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

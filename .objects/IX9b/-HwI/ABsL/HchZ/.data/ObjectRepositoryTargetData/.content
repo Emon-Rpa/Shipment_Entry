@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ISDH1jhplEmRumaOSXYn_A" Reference="TL-4uZJJkkyuRJtRBBB__Q/HchZjclYYkODA7d4baXbTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="61, 749, 13, 13" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='ShipmtLinesAdvTable:Content' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' class='xdo' /&gt;&lt;webctrl tag='INPUT' aaname='Select' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' checked='0' matching:checked='fuzzy' fuzzylevel:checked='0.0' type='checkbox' /&gt;" Guid="23d89f9b-c25e-41c7-8857-172ffb22f57e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1332, 746, 95, 18" ElementType="InputBox" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl id='ShipmtLinesAdvTable:Content' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl id='ShipmtLinesAdvTable:ItemQty:0' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' aaname='Quantity' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' class='xa' check:text='{0}' /&gt;&quot;, Qty)]" Guid="2c165ab7-4771-4531-bad0-94266702a2da" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="04bc60bdbdbddccfa22cddc987dff94a.jpg" xmlns="">0LgIFC9dcOECMD3AaKVte1g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="201" Name="Qty" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Shipment Details Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "VGv-IPTsxUu_ZZoEnqGY6A",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/VGv-IPTsxUu_ZZoEnqGY6A",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T08:11:24.9523947Z",
+  "Updated": "2026-08-10T08:12:14.7699468Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

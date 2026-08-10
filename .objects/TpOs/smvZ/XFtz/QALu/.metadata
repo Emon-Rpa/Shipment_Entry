@@ -1,0 +1,16 @@
+﻿{
+  "Name": "BBLC-Information-Exist",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "QALuEg5orUGfo7DYA67EHg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/QALuEg5orUGfo7DYA67EHg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T08:08:31.1509098Z",
+  "Updated": "2026-08-10T08:39:38.0811041Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

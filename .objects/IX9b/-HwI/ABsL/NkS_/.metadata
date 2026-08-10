@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Lines Apply",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "NkS_Lz5BcEOnKDIWGESZRQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/NkS_Lz5BcEOnKDIWGESZRQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T12:52:35.2397102Z",
+  "Updated": "2026-08-09T12:53:10.1260777Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fYfaCqT_ykiup8L99CUcSw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="110, 418, 28, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='CompSubTabLinks' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl parentid='ShipLinesLink' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='LABEL' aaname='Lines' visibleinnertext='Lines' /&gt;" Guid="0db6922f-0196-47d2-af06-e32a8e53ec8c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="49, 419, 41, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='CompSubTabLinks' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl type='' tag='LABEL' class='' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Header' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Header' /&gt;" Guid="7c02e72d-c7a5-425a-b4f7-214dd6783ddd" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6e0775bf383fc1394c261768aa65f884.jpg" xmlns="">0Utyguopwvk2GepzWeSGdcQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Type Into BBLC No in Contact Book",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "ziRuK4ZqMkisgFG69mUPPQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/ziRuK4ZqMkisgFG69mUPPQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T07:55:14.1306632Z",
+  "Updated": "2026-08-10T07:57:03.4047001Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

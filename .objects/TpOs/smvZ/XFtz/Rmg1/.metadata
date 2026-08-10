@@ -1,0 +1,13 @@
+﻿{
+  "Name": "HOME",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "Rmg18I0cNESw5nHNlIoZgA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Rmg18I0cNESw5nHNlIoZgA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T07:33:26.0647849Z",
+  "Updated": "2026-08-10T07:33:26.0647849Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

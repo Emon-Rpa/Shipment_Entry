@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Check Box Shipment Lines",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "HchZjclYYkODA7d4baXbTQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/HchZjclYYkODA7d4baXbTQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T12:22:58.7512956Z",
+  "Updated": "2026-08-09T12:38:40.8937274Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

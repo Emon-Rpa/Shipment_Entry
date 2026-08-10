@@ -1,0 +1,16 @@
+﻿{
+  "Name": "BBLC NO Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "bVYmMM97VkOdpSXE1qsSTQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/bVYmMM97VkOdpSXE1qsSTQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T07:40:23.2338477Z",
+  "Updated": "2026-08-10T07:41:31.5075454Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

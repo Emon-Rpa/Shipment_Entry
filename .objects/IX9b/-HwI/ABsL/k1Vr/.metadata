@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Enter Purchase Order",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "k1VrenzdNUyjnr8DnNyS3Q",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/k1VrenzdNUyjnr8DnNyS3Q",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T12:09:57.6612753Z",
+  "Updated": "2026-08-09T12:11:23.5367297Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

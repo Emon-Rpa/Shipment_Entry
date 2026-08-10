@@ -1,12 +1,15 @@
 ﻿{
-  "Name": "Chrome Home",
+  "Name": "Chrome Home LCM User",
   "Type": "App",
   "Id": "IX9bEzzcw0OHW-Vu0-7RVg",
   "Reference": "TL-4uZJJkkyuRJtRBBB__Q/IX9bEzzcw0OHW-Vu0-7RVg",
   "Created": "2026-08-09T08:28:33.5689933Z",
-  "Updated": "2026-08-09T08:28:33.5689933Z",
+  "Updated": "2026-08-10T07:25:52.8529298Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e2-GSD6D0EWPsiDggF0Dgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="1003, 534, 151, 16" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='POSrcMsgComp' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl id='PONumLov' matching:id='fuzzy' fuzzylevel:id='0.0' type='text' tag='INPUT' class='x8' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Purchase Order' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="eb01c30f-ce41-4bee-919d-cc3021a5f3e6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="902, 535, 90, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='POSrcMsgComp' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='TABLE' /&gt;&lt;webctrl type='' tag='SPAN' class='xc' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Purchase Order' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' innertext='Purchase Order' check:innerText='Purchase Order' /&gt;" Guid="c8e57164-e986-4d23-800f-cd4c54b0416a" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6bc0064fdb916a0dd278e38228d5c416.jpg" xmlns="">0gX-ES4JZoEOXEmsKgCqXsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

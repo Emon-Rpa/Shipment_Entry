@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Contact No Exist containing BBLC NO",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "zLSUEA5BEUytUO8sQynWiQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/zLSUEA5BEUytUO8sQynWiQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T07:42:48.8761123Z",
+  "Updated": "2026-08-10T07:53:49.7209726Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

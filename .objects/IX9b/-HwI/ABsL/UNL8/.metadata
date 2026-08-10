@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Lines",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "UNL8RCmDZEuR6iwoR38hVw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/UNL8RCmDZEuR6iwoR38hVw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/ABsL-kEkLkix5GR01q7CXw",
+  "Created": "2026-08-09T12:06:51.9692582Z",
+  "Updated": "2026-08-09T12:08:22.7091425Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

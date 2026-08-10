@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KcVipg5nHkuHdlIqDm-JIg" Reference="TL-4uZJJkkyuRJtRBBB__Q/O2WNvKUboEOUsD_lxnK76A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="1007, 328, 129, 58" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl role='dialog' /&gt;&lt;ctrl role='push button' aastate='default, focusable, opaque' /&gt;" Guid="b8c681f9-ada8-4ee9-a47a-7e887f543f02" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Landed Cost Management - Google Chrome' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="1148, 328, 129, 58" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='testebs2.mj-group.com:8010 says' matching:name='fuzzy' fuzzylevel:name='0.0' role='dialog' /&gt;&lt;ctrl role='push button' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' aastate='focusable, opaque' check:text='Cancel' /&gt;" Guid="ac0cb8c2-db5b-4592-b615-a9a3a572cc69" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="422172eff795927e9f391e429cb76d7b.jpg" xmlns="">0rsBV4jwWoUG5ospCeN03OA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

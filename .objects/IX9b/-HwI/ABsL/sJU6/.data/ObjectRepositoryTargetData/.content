@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PYAJ_xrtvkGeY2r0i9QA3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/OA.jsp" DesignTimeRectangle="1624, 297, 137, 18" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='ShipmtTasks__xc_' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl id='ShipmtTasks' matching:id='fuzzy' fuzzylevel:id='0.0' type='' tag='SELECT' class='x8' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Actions' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5a6616eb-b867-4b9a-b7fa-01e1e91e4219" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Landed Cost Management' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1571, 299, 44, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='ShipmtTasks__xc_' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl type='' tag='SPAN' class='xc' aaname='Actions' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Actions' /&gt;" Guid="8d142b7c-3295-4312-a29b-c226e235d2ac" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8cec5301d4995cbe4e7a0650d5a4b5ba.jpg" xmlns="">03qFOK0JbUUeN9zxQNSNfRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

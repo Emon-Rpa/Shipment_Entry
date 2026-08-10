@@ -1,0 +1,16 @@
+﻿{
+  "Name": "M&J Import Commercial",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "jmr59n1sLESPO93XOZCUZA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/jmr59n1sLESPO93XOZCUZA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/XFtzSPMQR0uBAtd63K8sOA",
+  "Created": "2026-08-10T07:29:00.6318357Z",
+  "Updated": "2026-08-10T07:30:06.7651723Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
