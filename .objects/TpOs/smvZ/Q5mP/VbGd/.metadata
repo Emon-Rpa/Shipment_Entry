@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.10_Fill Shipment Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "VbGdk7vt8kSa6rgxxC8i0A",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/VbGdk7vt8kSa6rgxxC8i0A",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T09:49:37.8746451Z",
+  "Updated": "2026-08-11T10:00:15.5641265Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

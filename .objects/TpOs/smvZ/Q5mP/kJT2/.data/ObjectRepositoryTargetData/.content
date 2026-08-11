@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yAyltA9K9ke-s_oIr-O_4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="968, 345, 37, 12" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='ph1::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl id='cb1' matching:id='fuzzy' fuzzylevel:id='0.0' tag='BUTTON' /&gt;&lt;webctrl parentid='cb1' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' type='' tag='SPAN' class='xgc' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Save' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='SAVE' /&gt;" Guid="817e569b-a37d-4ed0-9f68-4cae7574ef35" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="952, 342, 55, 18" ElementType="Button" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='ph1::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl id='pgl14' matching:id='fuzzy' fuzzylevel:id='0.0' tag='DIV' /&gt;&lt;webctrl id='cb1' matching:id='fuzzy' fuzzylevel:id='0.0' type='' tag='BUTTON' class='shadow__btn x7j' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Save' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='SAVE' /&gt;" Guid="09b94de8-e3ee-44e6-a02e-95d95c1480f5" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="57193bb1441668f1e14ee9eeb2c6604d.jpg" xmlns="">0OO9ikif6gk-pAGKW04dGvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

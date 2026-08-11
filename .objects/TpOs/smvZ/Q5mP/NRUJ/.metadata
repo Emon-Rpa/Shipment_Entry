@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.13+14_Freight Cost Flag",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "NRUJ_1Fi50azEnD-q3kOgw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/NRUJ_1Fi50azEnD-q3kOgw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T10:10:21.3764368Z",
+  "Updated": "2026-08-11T10:12:40.5106604Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

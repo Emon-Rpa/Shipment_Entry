@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.46_Transport Doc No",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "2BV2wZawFUWucvzgaiyedw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/2BV2wZawFUWucvzgaiyedw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T11:44:06.9766251Z",
+  "Updated": "2026-08-11T11:54:27.542981Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

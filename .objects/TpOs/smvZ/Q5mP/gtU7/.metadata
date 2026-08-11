@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.26+27_Endorsement",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "gtU71ICpQUqIrJg8hYLYzQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/gtU71ICpQUqIrJg8hYLYzQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T10:49:37.2020449Z",
+  "Updated": "2026-08-11T10:53:18.061844Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

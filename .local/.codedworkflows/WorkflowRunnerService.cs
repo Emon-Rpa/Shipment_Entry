@@ -36,6 +36,15 @@ namespace ShipmentEntry
         }
 
         /// <summary>
+        /// Invokes the Create Shipment In BBLC And CMLC.xaml
+        /// </summary>
+        /// <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        public void Create_Shipment_In_BBLC_And_CMLC(System.Boolean isolated = false)
+        {
+            var result = _services.WorkflowInvocationService.RunWorkflow(@"Create Shipment In BBLC And CMLC.xaml", new Dictionary<string, object> { }, default, isolated, default, GetAssemblyName());
+        }
+
+        /// <summary>
         /// Invokes the Lines_LandCostManagement.xaml
         /// </summary>
         /// <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>

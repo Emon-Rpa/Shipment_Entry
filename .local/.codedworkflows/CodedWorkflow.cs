@@ -16,6 +16,7 @@ namespace ShipmentEntry
     {
         private Lazy<global::ShipmentEntry.WorkflowRunnerService> _workflowRunnerServiceLazy;
         private Lazy<ConnectionsManager> _connectionsManagerLazy;
+        private Lazy<global::ShipmentEntry.WorkflowRunnerService> _shipmentEntryLazy;
         public CodedWorkflow()
         {
             _ = new System.Type[]
@@ -27,6 +28,7 @@ namespace ShipmentEntry
 #pragma warning disable
             _connectionsManagerLazy = new Lazy<ConnectionsManager>(() => new ConnectionsManager(serviceContainer));
 #pragma warning restore
+            _shipmentEntryLazy = new Lazy<global::ShipmentEntry.WorkflowRunnerService>(() => new global::ShipmentEntry.WorkflowRunnerService(this.services));
         }
 
         protected global::ShipmentEntry.WorkflowRunnerService workflows => _workflowRunnerServiceLazy.Value;
@@ -37,5 +39,6 @@ namespace ShipmentEntry
 #pragma warning disable
         protected UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService uiAutomation { get => serviceContainer.Resolve<UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService>() ; }
 #pragma warning restore
+        protected global::ShipmentEntry.WorkflowRunnerService shipmentEntry => _shipmentEntryLazy.Value;
     }
 }

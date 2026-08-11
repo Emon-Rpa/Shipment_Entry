@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.25_Nn Copy Rcvd Date",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "b9TpkmD-B0KUChf9ms4zAA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/b9TpkmD-B0KUChf9ms4zAA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T10:48:26.0611139Z",
+  "Updated": "2026-08-11T10:49:04.9325725Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

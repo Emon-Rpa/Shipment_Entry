@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Shipment Create",
+  "Type": "Screen",
+  "Id": "Q5mPReDU4kOsLvpdjOoAOQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/smvZsBsq6UaLOzXX9ow9ZA",
+  "Created": "2026-08-11T09:30:35.039138Z",
+  "Updated": "2026-08-11T09:30:35.039138Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

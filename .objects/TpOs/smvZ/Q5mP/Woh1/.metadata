@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.42_Weight",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Woh1H8WA9UOe6xZzTcFxLw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Woh1H8WA9UOe6xZzTcFxLw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T11:39:06.3505931Z",
+  "Updated": "2026-08-11T11:51:54.1971013Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

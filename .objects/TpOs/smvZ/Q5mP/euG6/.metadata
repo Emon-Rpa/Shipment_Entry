@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.15_Freight Cost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "euG6HxXJz0eyw4SHDZJItg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/euG6HxXJz0eyw4SHDZJItg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T10:13:57.5504695Z",
+  "Updated": "2026-08-11T10:21:54.7163578Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

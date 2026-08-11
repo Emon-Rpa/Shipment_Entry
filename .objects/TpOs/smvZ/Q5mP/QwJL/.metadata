@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.37_Container No OK Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "QwJLM2IzXEa4RCOOl2a_Ug",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/QwJLM2IzXEa4RCOOl2a_Ug",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T11:31:24.9027169Z",
+  "Updated": "2026-08-11T11:35:59.5913616Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

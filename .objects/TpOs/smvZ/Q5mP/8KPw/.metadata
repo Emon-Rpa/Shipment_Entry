@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.4+5_Shipment Status",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "8KPwCqyQ8kqFzNp9McNVtg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/8KPwCqyQ8kqFzNp9McNVtg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-11T09:34:19.193176Z",
+  "Updated": "2026-08-11T09:37:23.0407104Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

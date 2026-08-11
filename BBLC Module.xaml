@@ -1,8 +1,11 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="BBLC_Module" this:BBLC_Module.StatusDic="[New ShipmentEntry.ProcessInfo()]" this:BBLC_Module.BBLC_NO="411012320779-L" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:ShipmentEntry;assembly=ShipmentEntry.Core" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="BBLC_Module" this:BBLC_Module.BBLC_NO="411012320779-L" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:ShipmentEntry;assembly=ShipmentEntry.Core" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="StatusDic" Type="InArgument(s:ProcessInfo)" />
     <x:Property Name="BBLC_NO" Type="InArgument(x:String)" />
   </x:Members>
+  <this:BBLC_Module.StatusDic>
+    <InArgument x:TypeArguments="s:ProcessInfo">[New ShipmentEntry.ProcessInfo()]</InArgument>
+  </this:BBLC_Module.StatusDic>
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
@@ -104,49 +107,49 @@
       <AssemblyReference>Microsoft.Extensions.DependencyModel</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="BBLC_Module" sap:VirtualizedContainerService.HintSize="1272,2511" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="BBLC_Module" sap:VirtualizedContainerService.HintSize="630,2523.3333333333335" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard sap2010:Annotation.AnnotationText="BBLC And Contract Book" AttachMode="ByInstance" DisplayName="Chrome Home" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="586,2488" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V2">
+    <uix:NApplicationCard sap2010:Annotation.AnnotationText="BBLC And Contract Book" AttachMode="ByInstance" DisplayName="Chrome Home" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="585.3333333333334,2500.6666666666665" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="584,2262" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="583.3333333333334,2275.3333333333335" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'BBLC NO Field'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="550,246" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Text="[string.Format(&quot;{0}[k(enter)]&quot;, BBLC_NO)]" Version="V5">
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'BBLC NO Field'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="549.3333333333334,248" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Text="[string.Format(&quot;{0}[k(enter)]&quot;, BBLC_NO)]" Version="V5">
               <uix:NTypeInto.Target>
-                <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="PraQHtXec0OplyoDzfhKiw" DesignTimeRectangle="237, 421, 255, 25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='it1::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='INPUT' type='text' class='x25' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='BBLC No' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="593257bb-0b2a-4b52-bab8-0944b2130883" InformativeScreenshot="410005d8821647275cd05c54c9666db6.jpg" IsResponsive="True" Reference="TL-4uZJJkkyuRJtRBBB__Q/bVYmMM97VkOdpSXE1qsSTQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+                <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="LXCz2te-GUG61Rh5-BMxaQ" DesignTimeRectangle="129, 257, 136, 14" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='it1::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='INPUT' type='text' class='x25' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='BBLC No' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="593257bb-0b2a-4b52-bab8-0944b2130883" InformativeScreenshot="53f880b55a6a4449531343746e543606.jpg" IsResponsive="True" Reference="TL-4uZJJkkyuRJtRBBB__Q/bVYmMM97VkOdpSXE1qsSTQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                   <uix:TargetAnchorable.Anchors>
                     <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                      <uix:Target DesignTimeRectangle="169, 424, 62, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='ph2::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl id='it1' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TR' /&gt;&lt;webctrl type='' tag='LABEL' class='af_inputText_label-text' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='BBLC No' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='BBLC No' /&gt;" Guid="90109ffc-11a2-433f-a67b-31b45f09737d" SearchSteps="FuzzySelector" />
+                      <uix:Target DesignTimeRectangle="92, 259, 34, 11" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='ph2::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl id='it1' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TR' /&gt;&lt;webctrl type='' tag='LABEL' class='af_inputText_label-text' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='BBLC No' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='BBLC No' /&gt;" Guid="90109ffc-11a2-433f-a67b-31b45f09737d" SearchSteps="FuzzySelector" />
                     </scg:List>
                   </uix:TargetAnchorable.Anchors>
                 </uix:TargetAnchorable>
               </uix:NTypeInto.Target>
             </uix:NTypeInto>
-            <uix:NCheckState DisplayName="Check App State 'Contact No Exist containing BBLC NO'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="550,1956" sap2010:WorkflowViewState.IdRef="NCheckState_2" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
+            <uix:NCheckState DisplayName="Check App State 'Contact No Exist containing BBLC NO'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="549.3333333333334,1967.3333333333333" sap2010:WorkflowViewState.IdRef="NCheckState_2" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
               <uix:NCheckState.IfExists>
-                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="548,1389" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="547.3333333333334,1396.6666666666667" sap2010:WorkflowViewState.IdRef="Sequence_6">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Contact No Exist containing BBLC NO'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="514,194" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Contact No Exist containing BBLC NO'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="513.3333333333334,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="ggeHolyL7kCLZgHqtU6Hvg" DesignTimeRectangle="127, 808, 27, 20" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc3:t4:ot174::text' tag='SPAN' /&gt;" Guid="beeba48a-70eb-408b-9a85-4cbd336aeea1" InformativeScreenshot="ce8c68097f3be456ff1d0dd82875a369.jpg" Reference="TL-4uZJJkkyuRJtRBBB__Q/zLSUEA5BEUytUO8sQynWiQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Type Into BBLC No in Contact Book'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="514,57" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Text="[string.Format(&quot;{0}[k(enter)]&quot;, BBLC_NO)]" Version="V5">
+                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Type Into BBLC No in Contact Book'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="513.3333333333334,57.333333333333336" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Text="[string.Format(&quot;{0}[k(enter)]&quot;, BBLC_NO)]" Version="V5">
                     <uix:NTypeInto.Target>
                       <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="zl3ic-Kc9EmCHq6TXAUlJg" DesignTimeRectangle="601, 769, 154, 25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc1:t1:_afrFltrMdlc12::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='INPUT' aaname='Filter: BBLC Number' /&gt;" Guid="2033328c-a9bb-4b0c-a41d-eeb19e6feff1" InformativeScreenshot="a2a50fdd3c13d475c6e0ae53d4909d5e.jpg" Reference="TL-4uZJJkkyuRJtRBBB__Q/ziRuK4ZqMkisgFG69mUPPQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.Anchors>
@@ -173,22 +176,22 @@
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
                   </uix:NTypeInto>
-                  <uix:NCheckState DisplayName="Check App State 'BBLC-Information-Exist'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="514,1078" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
+                  <uix:NCheckState DisplayName="Check App State 'BBLC-Information-Exist'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="513.3333333333334,1084" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
                     <uix:NCheckState.IfExists>
-                      <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="512,511" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                      <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="511.3333333333333,513.3333333333334" sap2010:WorkflowViewState.IdRef="Sequence_4">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Shipment Details Button'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
+                        <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Shipment Details Button'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,195.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
                           <uix:NClick.Target>
                             <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="xvuBCQWQZEu9OH8p4fVFjQ" DesignTimeRectangle="249, 594, 98, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pt1::tabh::oc' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl aaname='Shipment Details' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='A' innertext='Shipment Details' visibleinnertext='Shipment Details' check:text='Shipment Details' /&gt;" Guid="710ff97b-21ea-4e79-9e0c-149341c092dc" InformativeScreenshot="e5144d2d1ff57be5421c0cf0e1feb24f.jpg" Reference="TL-4uZJJkkyuRJtRBBB__Q/VGv-IPTsxUu_ZZoEnqGY6A" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive" />
                           </uix:NClick.Target>
                         </uix:NClick>
-                        <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Create Button'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,257" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
+                        <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Create Button'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,258" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="406b142e-ee0a-4f36-aaf1-e843343b7364" Version="V5">
                           <uix:NClick.Target>
-                            <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="_Y51fB9vvkid0YSjcW7cuA" DesignTimeRectangle="374, 648, 42, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc2:cb5' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='BUTTON' /&gt;&lt;webctrl aaname='Create' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' type='' tag='SPAN' class='xgc' matching:class='fuzzy' fuzzylevel:class='0.0' innertext='Create' visibleinnertext='Create' check:innerText='Create' /&gt;" Guid="8c7dbff9-4b09-4cee-ae06-71648c596f31" InformativeScreenshot="30465dd2f6f83db8dfcd521f57a4c70f.jpg" Reference="TL-4uZJJkkyuRJtRBBB__Q/lhZyvART8Uux6Q34lJJYqg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+                            <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="rd7_Nx548UmNUyDmL6zXpg" DesignTimeRectangle="374, 648, 42, 16" ElementType="Text" ElementVisibilityArgument="Visible" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc2:cb5' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='BUTTON' /&gt;&lt;webctrl aaname='Create' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' type='' tag='SPAN' class='xgc' matching:class='fuzzy' fuzzylevel:class='0.0' innertext='Create' visibleinnertext='Create' check:innerText='Create' /&gt;" Guid="8c7dbff9-4b09-4cee-ae06-71648c596f31" InformativeScreenshot="30465dd2f6f83db8dfcd521f57a4c70f.jpg" Reference="TL-4uZJJkkyuRJtRBBB__Q/lhZyvART8Uux6Q34lJJYqg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
                               <uix:TargetAnchorable.Anchors>
                                 <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                                   <uix:Target DesignTimeRectangle="340, 638, 88, 29" ElementType="Button" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl adf-relative-id='pc2:cb5' tag='BUTTON' type='' class='x7j' aaname='Create' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Create' /&gt;" Guid="a190622d-f786-42cb-9af6-868325bf892e" SearchSteps="FuzzySelector" />
@@ -198,6 +201,9 @@
                           </uix:NClick.Target>
                           <uix:NClick.VerifyOptions>
                             <uix:VerifyExecutionOptions Mode="Appears">
+                              <uix:VerifyExecutionOptions.Retry>
+                                <InArgument x:TypeArguments="x:Boolean" />
+                              </uix:VerifyExecutionOptions.Retry>
                               <uix:VerifyExecutionOptions.Target>
                                 <uix:TargetAnchorable BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" ContentHash="2KUrUshZ3ECIMG946LiheQ" DesignTimeRectangle="233, 761, 108, 20" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc2:t2:it19::content' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='INPUT' type='text' class='x25' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='InvoiceNo' check:text='' /&gt;" Guid="865dab60-9b22-4a5d-82ee-25e3f2b679ac" InformativeScreenshot="3df6a0794f25f525cd10e6c77f59439f.jpg" Reference="TL-4uZJJkkyuRJtRBBB__Q/9iaamMpfGEKWu82MbC7Xwg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive" />
                               </uix:VerifyExecutionOptions.Target>
@@ -210,13 +216,13 @@
                       </Sequence>
                     </uix:NCheckState.IfExists>
                     <uix:NCheckState.IfNotExists>
-                      <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="512,231" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                      <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="511.3333333333333,230.66666666666666" sap2010:WorkflowViewState.IdRef="Sequence_5">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="478,171" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+                        <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="477.3333333333333,170.66666666666666" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
                           <ui:MultipleAssign.AssignOperations>
                             <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
                               <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
@@ -253,13 +259,13 @@
                 </Sequence>
               </uix:NCheckState.IfExists>
               <uix:NCheckState.IfNotExists>
-                <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="548,231" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="547.3333333333334,230.66666666666666" sap2010:WorkflowViewState.IdRef="Sequence_7">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="478,171" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
+                  <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="477.3333333333333,170.66666666666666" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
                     <ui:MultipleAssign.AssignOperations>
                       <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
                         <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
