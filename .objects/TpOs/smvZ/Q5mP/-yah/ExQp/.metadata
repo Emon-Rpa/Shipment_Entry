@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.66 Type into \"Shipment Num\"",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ExQpDwjZ0ke9rY7RVlZ8Mg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/ExQpDwjZ0ke9rY7RVlZ8Mg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:11:50.2599637Z",
+  "Updated": "2026-08-12T07:13:37.0320746Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

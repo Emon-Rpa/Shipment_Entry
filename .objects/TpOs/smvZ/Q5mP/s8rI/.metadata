@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.54 type into \"ATD (ORIGIN)\"",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "s8rIvmoJIUqeBp19imSZYA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/s8rIvmoJIUqeBp19imSZYA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-12T06:33:57.2895127Z",
+  "Updated": "2026-08-12T06:35:06.7810728Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

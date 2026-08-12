@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.74 Click on \"save\" Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "M5j7xjTdskSoLSZETSRrrQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/M5j7xjTdskSoLSZETSRrrQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:32:29.0115159Z",
+  "Updated": "2026-08-12T07:33:50.4256053Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

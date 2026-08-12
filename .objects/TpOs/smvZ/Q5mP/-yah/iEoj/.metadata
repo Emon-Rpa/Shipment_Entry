@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.71 Click on \"Generate changes\"",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "iEojLtVJ80m5F2DE021_eQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/iEojLtVJ80m5F2DE021_eQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:20:22.7429342Z",
+  "Updated": "2026-08-12T07:21:17.4477476Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OZa0DAN2CEimFwO47oFmiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="241, 590, 45, 17" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl tag='SELECT' aaname='BillExchangeAvailable' /&gt;" Guid="a70ad30f-422d-44db-9ada-43148013447c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="241, 539, 47, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc2:t2:c160' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='TH' /&gt;&lt;webctrl aaname='Bill of Exchange Available' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' class='af_column_label-text' matching:class='fuzzy' fuzzylevel:class='0.0' type='' tag='SPAN' innertext='Bill of Exchange Available' check:innerText='Bill of Exchange Available' /&gt;" Guid="12111674-b4ac-43ed-97c2-54557f60dfa2" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ceaa78c16be9b51479a70cac36286b9f.jpg" xmlns="">0tPl1nLQ_1UK0AWp8j4tzcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

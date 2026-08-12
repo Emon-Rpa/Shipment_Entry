@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.69 Click on \"Ok\" Button in Generate Shippment",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "rhzBEsKbwk69dT_aR1SV1w",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/rhzBEsKbwk69dT_aR1SV1w",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:18:01.6835138Z",
+  "Updated": "2026-08-12T07:19:59.2650504Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

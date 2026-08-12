@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uASjqVDU7EeNXeOWCOV5TA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="616, 191, 8, 9" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='d14::close' tag='A' aaname='Close' /&gt;" Guid="8594a0b7-ad20-4b6a-900c-e83474f215b0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="135, 210, 122, 11" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl adf-relative-id='ph4::_afrTtxt' tag='TD' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' /&gt;&lt;webctrl type='' tag='H1' class='xzt ' aaname='Shipment Charges Header' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Shipment Charges Header' /&gt;" Guid="7e1bd88b-81ad-4301-abe7-dcae9be82caf" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="969d35329b6db8cff96a9ef59bb61187.jpg" xmlns="">0DGOQ5IbdbUeD-0B8UL7hmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

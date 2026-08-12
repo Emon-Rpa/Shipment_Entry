@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.55+56 Select item \"Bill of Exchange Available\"",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "fhgyD0xKXU-KaHsVODxP0w",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/fhgyD0xKXU-KaHsVODxP0w",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-12T06:35:49.4658029Z",
+  "Updated": "2026-08-12T06:38:23.3941478Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

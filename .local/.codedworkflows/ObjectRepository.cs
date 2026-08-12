@@ -16,11 +16,6 @@ namespace ShipmentEntry.ObjectRepository
             static string _reference = "TL-4uZJJkkyuRJtRBBB__Q/IX9bEzzcw0OHW-Vu0-7RVg";
             public static _Implementation._Chrome_Home_LCM_User.__Chrome_Home Chrome_Home { get; private set; } = new _Implementation._Chrome_Home_LCM_User.__Chrome_Home();
         }
-
-        public static class NewApplication
-        {
-            static string _reference = "TL-4uZJJkkyuRJtRBBB__Q/Q5g7R51PhEOIU6N4Juyz5w";
-        }
     }
 }
 
@@ -1219,6 +1214,93 @@ namespace ShipmentEntry._Implementation
 
     namespace _Chrome_Home_BBLC._Shipment_Create
     {
+        public class ___6_54_type_into__ATD__ORIGIN__ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_54_type_into__ATD__ORIGIN__(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/s8rIvmoJIUqeBp19imSZYA",
+                    DisplayName = "6.54 type into \"ATD (ORIGIN)\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
+        public class ___6_55_56_Select_item__Bill_of_Exchange_Available_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_55_56_Select_item__Bill_of_Exchange_Available_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/fhgyD0xKXU-KaHsVODxP0w",
+                    DisplayName = "6.55+56 Select item \"Bill of Exchange Available\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
+        public class ___6_58_Type_into__Shipment_from_Country_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_58_Type_into__Shipment_from_Country_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/k4kO_l0zdUiVlTg3u7_D1w",
+                    DisplayName = "6.58 Type into \"Shipment from Country\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
         public class ___6_6_7_Shipment_Mode : IElementDescriptor
         {
             private readonly IScreenDescriptor _screenDescriptor;
@@ -1248,7 +1330,7 @@ namespace ShipmentEntry._Implementation
 
     namespace _Chrome_Home_BBLC._Shipment_Create
     {
-        public class ___6_8_SAVE : IElementDescriptor
+        public class ___6_60_Type_into__Forwarder_Name_ : IElementDescriptor
         {
             private readonly IScreenDescriptor _screenDescriptor;
             private readonly IElementDescriptor _parentElementDescriptor;
@@ -1259,14 +1341,382 @@ namespace ShipmentEntry._Implementation
                 return _elementDescriptor;
             }
 
-            public ___6_8_SAVE(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            public ___6_60_Type_into__Forwarder_Name_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/GE5wJOC15EOLdEwwgotx7Q",
+                    DisplayName = "6.60 Type into \"Forwarder Name\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
+        public class ___6_62_Type_into__Carrier_Name_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_62_Type_into__Carrier_Name_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/Ce3439kIiU6KQ1a7J-DNNg",
+                    DisplayName = "6.62 Type into \"Carrier Name\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_65_Click_on__Create__in__Generate___Apply__ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_65_Click_on__Create__in__Generate___Apply__(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/Cut-CIg130G1OdjMokSNRA",
+                    DisplayName = "6.65 Click on \"Create\" in \"Generate & Apply \"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_66_Type_into__Shipment_Num_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_66_Type_into__Shipment_Num_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/ExQpDwjZ0ke9rY7RVlZ8Mg",
+                    DisplayName = "6.66 Type into \"Shipment Num\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_67_Type_into__First_Shipment_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_67_Type_into__First_Shipment_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/fqGU5cWpKk-34iQlugWAzA",
+                    DisplayName = "6.67 Type into \"First Shipment\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_69_Click_on__Ok__Button_in_Generate_Shippment : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_69_Click_on__Ok__Button_in_Generate_Shippment(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/rhzBEsKbwk69dT_aR1SV1w",
+                    DisplayName = "6.69 Click on \"Ok\" Button in Generate Shippment",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.__6_71_Click_on__Generate_changes_
+    {
+        public class ___6_72_Click_on__Process_Lines_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_72_Click_on__Process_Lines_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/j8EhaxMrk02Ndg4kJFJYcA",
+                    DisplayName = "6.72 Click on \"Process Lines\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.__6_71_Click_on__Generate_changes_
+    {
+        public class ___6_73_Click_on__Blank_Space_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_73_Click_on__Blank_Space_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/alfuqWcSpkWZqt_aZ3982Q",
+                    DisplayName = "6.73 Click on \"Blank Space\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_71_Click_on__Generate_changes_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_71_Click_on__Generate_changes_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/iEojLtVJ80m5F2DE021_eQ",
+                    DisplayName = "6.71 Click on \"Generate changes\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+                _6_72_Click_on__Process_Lines_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.__6_71_Click_on__Generate_changes_.___6_72_Click_on__Process_Lines_(screenDescriptor, this);
+                _6_73_Click_on__Blank_Space_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.__6_71_Click_on__Generate_changes_.___6_73_Click_on__Blank_Space_(screenDescriptor, this);
+            }
+
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.__6_71_Click_on__Generate_changes_.___6_72_Click_on__Process_Lines_ _6_72_Click_on__Process_Lines_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.__6_71_Click_on__Generate_changes_.___6_73_Click_on__Blank_Space_ _6_73_Click_on__Blank_Space_ { get; private set; }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_74_Click_on__save__Button : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_74_Click_on__save__Button(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/M5j7xjTdskSoLSZETSRrrQ",
+                    DisplayName = "6.74 Click on \"save\" Button",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_
+    {
+        public class ___6_75_Click_on__Close__Button : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_75_Click_on__Close__Button(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/GjqraEqzPUG3N7T-TWSdNg",
+                    DisplayName = "6.75 Click on \"Close\" Button",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
+        public class ___6_64_Click_on__Generate___Apply_Changes_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_64_Click_on__Generate___Apply_Changes_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+                    DisplayName = "6.64 Click on \"Generate & Apply Changes\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+                _6_65_Click_on__Create__in__Generate___Apply__ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_65_Click_on__Create__in__Generate___Apply__(screenDescriptor, this);
+                _6_66_Type_into__Shipment_Num_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_66_Type_into__Shipment_Num_(screenDescriptor, this);
+                _6_67_Type_into__First_Shipment_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_67_Type_into__First_Shipment_(screenDescriptor, this);
+                _6_69_Click_on__Ok__Button_in_Generate_Shippment = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_69_Click_on__Ok__Button_in_Generate_Shippment(screenDescriptor, this);
+                _6_71_Click_on__Generate_changes_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_71_Click_on__Generate_changes_(screenDescriptor, this);
+                _6_74_Click_on__save__Button = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_74_Click_on__save__Button(screenDescriptor, this);
+                _6_75_Click_on__Close__Button = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_75_Click_on__Close__Button(screenDescriptor, this);
+            }
+
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_65_Click_on__Create__in__Generate___Apply__ _6_65_Click_on__Create__in__Generate___Apply__ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_66_Type_into__Shipment_Num_ _6_66_Type_into__Shipment_Num_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_67_Type_into__First_Shipment_ _6_67_Type_into__First_Shipment_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_69_Click_on__Ok__Button_in_Generate_Shippment _6_69_Click_on__Ok__Button_in_Generate_Shippment { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_71_Click_on__Generate_changes_ _6_71_Click_on__Generate_changes_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_74_Click_on__save__Button _6_74_Click_on__save__Button { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__6_64_Click_on__Generate___Apply_Changes_.___6_75_Click_on__Close__Button _6_75_Click_on__Close__Button { get; private set; }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
+        public class ___6_8___6_63_SAVE : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_8___6_63_SAVE(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
             {
                 _screenDescriptor = screenDescriptor;
                 _parentElementDescriptor = parentElementDescriptor;
                 _elementDescriptor = new ElementDescriptorDefinition
                 {
                     Reference = "TL-4uZJJkkyuRJtRBBB__Q/kJT2Nrj_-0yB2E9WAUEhHw",
-                    DisplayName = "6.8_SAVE",
+                    DisplayName = "6.8 & 6.63_SAVE",
                     Element = this,
                     ParentElement = _parentElementDescriptor,
                     Screen = screenDescriptor
@@ -1352,8 +1802,14 @@ namespace ShipmentEntry._Implementation
                 _6_50_C___F_Agent_Name = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_50_C___F_Agent_Name(this, null);
                 _6_51_Courier_Name__B2B_Dox_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_51_Courier_Name__B2B_Dox_(this, null);
                 _6_53_ETD__ORIGIN_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_53_ETD__ORIGIN_(this, null);
+                _6_54_type_into__ATD__ORIGIN__ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_54_type_into__ATD__ORIGIN__(this, null);
+                _6_55_56_Select_item__Bill_of_Exchange_Available_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_55_56_Select_item__Bill_of_Exchange_Available_(this, null);
+                _6_58_Type_into__Shipment_from_Country_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_58_Type_into__Shipment_from_Country_(this, null);
                 _6_6_7_Shipment_Mode = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_6_7_Shipment_Mode(this, null);
-                _6_8_SAVE = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_8_SAVE(this, null);
+                _6_60_Type_into__Forwarder_Name_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_60_Type_into__Forwarder_Name_(this, null);
+                _6_62_Type_into__Carrier_Name_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_62_Type_into__Carrier_Name_(this, null);
+                _6_64_Click_on__Generate___Apply_Changes_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_64_Click_on__Generate___Apply_Changes_(this, null);
+                _6_8___6_63_SAVE = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_8___6_63_SAVE(this, null);
                 _6_9_Information_OK = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_9_Information_OK(this, null);
             }
 
@@ -1386,8 +1842,14 @@ namespace ShipmentEntry._Implementation
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_50_C___F_Agent_Name _6_50_C___F_Agent_Name { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_51_Courier_Name__B2B_Dox_ _6_51_Courier_Name__B2B_Dox_ { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_53_ETD__ORIGIN_ _6_53_ETD__ORIGIN_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_54_type_into__ATD__ORIGIN__ _6_54_type_into__ATD__ORIGIN__ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_55_56_Select_item__Bill_of_Exchange_Available_ _6_55_56_Select_item__Bill_of_Exchange_Available_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_58_Type_into__Shipment_from_Country_ _6_58_Type_into__Shipment_from_Country_ { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_6_7_Shipment_Mode _6_6_7_Shipment_Mode { get; private set; }
-            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_8_SAVE _6_8_SAVE { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_60_Type_into__Forwarder_Name_ _6_60_Type_into__Forwarder_Name_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_62_Type_into__Carrier_Name_ _6_62_Type_into__Carrier_Name_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_64_Click_on__Generate___Apply_Changes_ _6_64_Click_on__Generate___Apply_Changes_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_8___6_63_SAVE _6_8___6_63_SAVE { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_9_Information_OK _6_9_Information_OK { get; private set; }
         }
     }

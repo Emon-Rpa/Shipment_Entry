@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.73 Click on \"Blank Space\"",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "alfuqWcSpkWZqt_aZ3982Q",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/alfuqWcSpkWZqt_aZ3982Q",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/iEojLtVJ80m5F2DE021_eQ",
+  "Created": "2026-08-12T07:24:15.6650354Z",
+  "Updated": "2026-08-12T07:31:44.0679728Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

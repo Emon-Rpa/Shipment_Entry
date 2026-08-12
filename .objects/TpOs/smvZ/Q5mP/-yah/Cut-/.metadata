@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.65 Click on \"Create\" in \"Generate & Apply \"",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Cut-CIg130G1OdjMokSNRA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Cut-CIg130G1OdjMokSNRA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:10:16.4685627Z",
+  "Updated": "2026-08-12T07:11:36.6340318Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

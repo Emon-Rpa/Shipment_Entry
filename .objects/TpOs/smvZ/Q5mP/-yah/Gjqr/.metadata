@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.75 Click on \"Close\" Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "GjqraEqzPUG3N7T-TWSdNg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/GjqraEqzPUG3N7T-TWSdNg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:34:30.2579006Z",
+  "Updated": "2026-08-12T07:35:13.2328948Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

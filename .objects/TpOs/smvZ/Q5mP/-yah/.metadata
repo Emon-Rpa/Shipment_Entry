@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.64 Click on \"Generate & Apply Changes\"",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "-yahl9AQGU-Y7NJSjs1lWQ",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-12T07:07:24.9142832Z",
+  "Updated": "2026-08-12T07:08:50.8074949Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

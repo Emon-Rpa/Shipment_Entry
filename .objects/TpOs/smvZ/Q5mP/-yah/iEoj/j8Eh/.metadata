@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.72 Click on \"Process Lines\"",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "j8EhaxMrk02Ndg4kJFJYcA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/j8EhaxMrk02Ndg4kJFJYcA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/iEojLtVJ80m5F2DE021_eQ",
+  "Created": "2026-08-12T07:22:08.3341963Z",
+  "Updated": "2026-08-12T07:22:55.550555Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

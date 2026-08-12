@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pF5d7HX4i0KuRXABruq90w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="267, 355, 55, 10" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc17:ctb8' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl aaname='Process Lines' tag='SPAN' /&gt;" Guid="e828ac40-0588-4f8f-bd5f-99179344332a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="287, 226, 70, 10" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl adf-relative-id='pc16:ctb6' tag='DIV' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' /&gt;&lt;webctrl aaname='Generate Charges' type='' tag='SPAN' class='xfu' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Generate Charges' /&gt;" Guid="f2af627f-6f27-41b0-810a-2efbca8707d9" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1f723772b52624ec1e90e89c951072c8.jpg" xmlns="">0Z_2ygTnWZk-QpBtJM4KSuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

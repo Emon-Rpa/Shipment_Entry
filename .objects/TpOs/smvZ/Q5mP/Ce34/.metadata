@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.62 Type into \"Carrier Name\"",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Ce3439kIiU6KQ1a7J-DNNg",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Ce3439kIiU6KQ1a7J-DNNg",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-12T07:01:17.0053794Z",
+  "Updated": "2026-08-12T07:03:08.7255619Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

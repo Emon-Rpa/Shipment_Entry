@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.67 Type into \"First Shipment\"",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "fqGU5cWpKk-34iQlugWAzA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/fqGU5cWpKk-34iQlugWAzA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/-yahl9AQGU-Y7NJSjs1lWQ",
+  "Created": "2026-08-12T07:14:06.3450904Z",
+  "Updated": "2026-08-12T07:16:52.1864407Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

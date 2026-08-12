@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9j-I9FIEm0edDjDe9ZLleg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="184, 226, 33, 10" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='pc16:ctb3' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' tag='DIV' /&gt;&lt;webctrl tag='SPAN' aaname='Create' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' visibleinnertext='Create' matching:visibleinnertext='fuzzy' fuzzylevel:visibleinnertext='0.0' check:text='Create' /&gt;" Guid="427cd4b7-9f03-4379-ae9d-29d8967db481" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="135, 210, 122, 11" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl adf-relative-id='ph4::_afrTtxt' tag='TD' matching:adf-relative-id='fuzzy' fuzzylevel:adf-relative-id='0.0' /&gt;&lt;webctrl type='' tag='H1' class='xzt ' aaname='Shipment Charges Header' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Shipment Charges Header' /&gt;" Guid="ea427dec-5dc6-40c4-b15a-3c392a1ff154" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="38f9795c0d469d350c2a0b024dc48db5.jpg" xmlns="">0HN_lA2fJTk6h2NMCf7Psew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

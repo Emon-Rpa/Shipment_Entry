@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.60 Type into \"Forwarder Name\"",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "GE5wJOC15EOLdEwwgotx7Q",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/GE5wJOC15EOLdEwwgotx7Q",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-12T06:41:49.3665665Z",
+  "Updated": "2026-08-12T06:45:16.2657816Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

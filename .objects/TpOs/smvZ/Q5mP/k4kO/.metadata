@@ -1,0 +1,13 @@
+﻿{
+  "Name": "6.58 Type into \"Shipment from Country\"",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "k4kO_l0zdUiVlTg3u7_D1w",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/k4kO_l0zdUiVlTg3u7_D1w",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-12T06:40:38.2716034Z",
+  "Updated": "2026-08-12T06:40:38.2716034Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
