@@ -1,0 +1,16 @@
+﻿{
+  "Name": "6.76 Click \"Attach Invoice Doc\"",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1O0Qwocq006r_5xBxCQAqw",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/1O0Qwocq006r_5xBxCQAqw",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-13T06:15:18.8406775Z",
+  "Updated": "2026-08-13T06:18:31.6819571Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

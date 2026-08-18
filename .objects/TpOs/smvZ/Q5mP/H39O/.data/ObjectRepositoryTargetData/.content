@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ZLK8A0hXLEa5zz7Y1-ZpcQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="QiL6wKOB60aaYdMzQ31MTg" Reference="TL-4uZJJkkyuRJtRBBB__Q/H39Ojp1npUyTyq2bHVmbBw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="271, 285, 38, 14" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='*shipmentNOId::content' tag='INPUT' type='text' /&gt;" Guid="eab19146-de1e-4de6-978f-822cb1fe22f1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="69d3007a12d9d725264a3c339f335ce0.jpg" xmlns="">0pwTVoSgIF0-9BfEcOdqbsQ</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="227, 256, 32, 12" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl src='RF.jsp?*' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' id='*shipmentNOId::content' /&gt;" Guid="60f73dd0-7cac-4d1c-8c7b-93e44557920c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1cd39dd2eaed5682cce88f62c19cfff1.jpg" xmlns="">0vMYdXOn6wkKf9Oc6ZVcxkA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

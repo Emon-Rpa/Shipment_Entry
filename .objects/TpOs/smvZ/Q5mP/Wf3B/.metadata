@@ -1,12 +1,12 @@
 ﻿{
   "Name": "6.2Invoice No",
   "Type": "Element",
-  "TaxonomyType": "Element",
+  "TaxonomyType": "Input",
   "Id": "Wf3B62pUhE2J_mMsiEWlqA",
   "Reference": "TL-4uZJJkkyuRJtRBBB__Q/Wf3B62pUhE2J_mMsiEWlqA",
   "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
   "Created": "2026-08-11T09:31:09.9762985Z",
-  "Updated": "2026-08-11T09:33:18.3620404Z",
+  "Updated": "2026-08-13T07:58:55.131991Z",
   "CreatedBy": [
     "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
   ],

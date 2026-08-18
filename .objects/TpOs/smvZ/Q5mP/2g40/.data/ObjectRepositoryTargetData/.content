@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="vlZSOA9Vv0yHhq3psmu9pA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="fXRHt1RVoE-orbys-2096w" Reference="TL-4uZJJkkyuRJtRBBB__Q/2g40c8epG0aju_i4npMvFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="405, 449, 26, 15" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl src='RF.jsp?function_id=MNJ_IMPORTBBLC_2_ADF&amp;amp;resp_id=51318&amp;amp;resp_appl_id=660&amp;amp;security_group_id=0&amp;amp;ParamOrgId=340&amp;amp;ParamUserId=1552&amp;amp;ParamRespId=51318&amp;amp;ParamRespApplId=660' tag='IFRAME' /&gt;&lt;webctrl adf-relative-id='d6::_fcc' tag='TD' /&gt;&lt;webctrl id='b7' tag='DIV' /&gt;&lt;webctrl tag='A' aaname='OK' visibleinnertext='OK' /&gt;" Guid="f5ee34bf-9254-408b-9294-5e522d448e14" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="9f591bda0dacb1fe38403b0842d428ae.jpg" xmlns="">0wy60_XgIWkapakabkybamA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="testebs2.mj-group.com/OA_HTML/RF.jsp" DesignTimeRectangle="505, 716, 22, 12" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='IFRAME' idx='2' /&gt;&lt;webctrl adf-relative-id='d6::_fcc' tag='TD' /&gt;&lt;webctrl id='b7' tableRow='1' tag='DIV' /&gt;&lt;webctrl tableRow='1' tag='A' /&gt;" Guid="bf9d59bb-706c-4849-b3c5-de42fd7481b0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Import BBLC v2' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="161d80040a9ea204eaa4b3e4b4156a8e.jpg" xmlns="">0blHnGOEZl0G4q69XFUx9gg</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

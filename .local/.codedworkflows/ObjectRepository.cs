@@ -1698,6 +1698,35 @@ namespace ShipmentEntry._Implementation
 
     namespace _Chrome_Home_BBLC._Shipment_Create
     {
+        public class ___6_76_Click__Attach_Invoice_Doc_ : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public ___6_76_Click__Attach_Invoice_Doc_(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/1O0Qwocq006r_5xBxCQAqw",
+                    DisplayName = "6.76 Click \"Attach Invoice Doc\"",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
         public class ___6_8___6_63_SAVE : IElementDescriptor
         {
             private readonly IScreenDescriptor _screenDescriptor;
@@ -1746,6 +1775,35 @@ namespace ShipmentEntry._Implementation
                 {
                     Reference = "TL-4uZJJkkyuRJtRBBB__Q/-YPOxsDrRUes2RvW3ZNdoQ",
                     DisplayName = "6.9 Information OK",
+                    Element = this,
+                    ParentElement = _parentElementDescriptor,
+                    Screen = screenDescriptor
+                };
+            }
+        }
+    }
+
+    namespace _Chrome_Home_BBLC._Shipment_Create
+    {
+        public class __Duplicate_Value_Information_Message : IElementDescriptor
+        {
+            private readonly IScreenDescriptor _screenDescriptor;
+            private readonly IElementDescriptor _parentElementDescriptor;
+            private readonly IElementDescriptorDefinition _elementDescriptor;
+
+            public IElementDescriptorDefinition GetDefinition()
+            {
+                return _elementDescriptor;
+            }
+
+            public __Duplicate_Value_Information_Message(IScreenDescriptor screenDescriptor, IElementDescriptor parentElementDescriptor)
+            {
+                _screenDescriptor = screenDescriptor;
+                _parentElementDescriptor = parentElementDescriptor;
+                _elementDescriptor = new ElementDescriptorDefinition
+                {
+                    Reference = "TL-4uZJJkkyuRJtRBBB__Q/VL9KtNzN4kKwxEDGLOHkiA",
+                    DisplayName = "Duplicate Value Information Message",
                     Element = this,
                     ParentElement = _parentElementDescriptor,
                     Screen = screenDescriptor
@@ -1809,8 +1867,10 @@ namespace ShipmentEntry._Implementation
                 _6_60_Type_into__Forwarder_Name_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_60_Type_into__Forwarder_Name_(this, null);
                 _6_62_Type_into__Carrier_Name_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_62_Type_into__Carrier_Name_(this, null);
                 _6_64_Click_on__Generate___Apply_Changes_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_64_Click_on__Generate___Apply_Changes_(this, null);
+                _6_76_Click__Attach_Invoice_Doc_ = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_76_Click__Attach_Invoice_Doc_(this, null);
                 _6_8___6_63_SAVE = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_8___6_63_SAVE(this, null);
                 _6_9_Information_OK = new _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_9_Information_OK(this, null);
+                Duplicate_Value_Information_Message = new _Implementation._Chrome_Home_BBLC._Shipment_Create.__Duplicate_Value_Information_Message(this, null);
             }
 
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_10_Fill_Shipment_Button _6_10_Fill_Shipment_Button { get; private set; }
@@ -1849,8 +1909,10 @@ namespace ShipmentEntry._Implementation
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_60_Type_into__Forwarder_Name_ _6_60_Type_into__Forwarder_Name_ { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_62_Type_into__Carrier_Name_ _6_62_Type_into__Carrier_Name_ { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_64_Click_on__Generate___Apply_Changes_ _6_64_Click_on__Generate___Apply_Changes_ { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_76_Click__Attach_Invoice_Doc_ _6_76_Click__Attach_Invoice_Doc_ { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_8___6_63_SAVE _6_8___6_63_SAVE { get; private set; }
             public _Implementation._Chrome_Home_BBLC._Shipment_Create.___6_9_Information_OK _6_9_Information_OK { get; private set; }
+            public _Implementation._Chrome_Home_BBLC._Shipment_Create.__Duplicate_Value_Information_Message Duplicate_Value_Information_Message { get; private set; }
         }
     }
 

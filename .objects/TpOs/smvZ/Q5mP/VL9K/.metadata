@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Duplicate Value Information Message",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "VL9KtNzN4kKwxEDGLOHkiA",
+  "Reference": "TL-4uZJJkkyuRJtRBBB__Q/VL9KtNzN4kKwxEDGLOHkiA",
+  "ParentRef": "TL-4uZJJkkyuRJtRBBB__Q/Q5mPReDU4kOsLvpdjOoAOQ",
+  "Created": "2026-08-13T06:45:49.3885587Z",
+  "Updated": "2026-08-13T06:47:44.8660943Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

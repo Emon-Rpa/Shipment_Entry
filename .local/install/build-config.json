@@ -1,6 +1,7 @@
 {
   "Version": "1.0",
   "IncludeWorkflows": [
-    "BBLC Module.xaml"
+    "Shippment_Create_Form.xaml",
+    "Shippment_Create_Form.c816f160e05d.xaml"
   ]
 }

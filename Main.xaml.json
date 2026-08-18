@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "Invoice_No",
+      "DisplayName": "Invoice_No",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "D198/31323/0525",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Invoice_Date",
+      "DisplayName": "Invoice_Date",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "5/29/2025",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
